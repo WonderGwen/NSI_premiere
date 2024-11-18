@@ -5,7 +5,7 @@ Les informaticiens utilisent des instructions (mots souvent en anglais) en lieu 
 
 Il existe 2 grandes familles de langages de programmation :
 Les langages de bas niveau sont très complexes à utiliser, car très éloignés du langage naturel, on dit que ce sont des langages « proches de la machine », en contrepartie ils permettent de faire des programmes très rapides à l'exécution. L'assembleur est le langage de bas niveau. Certains "morceaux" de programmes sont écrits en assembleur encore aujourd'hui.
-Les langages de haut niveau sont eux plus "faciles" à utiliser, car plus proches du langage naturel (exemple : si a=3 alors b=c). Exemples de langages de haut niveau : C, C++ , Java, Python...
+Les langages de haut niveau sont eux plus "faciles" à utiliser, car plus proches du langage naturel (exemple : si a=3 alors b=c). Exemples de langages de haut niveau : C, C++ , Java, Python...  
 En NSI, notre langage de prédilection sera Python.
 
 Pour écrire nos programmes, nous utiliserons le logiciel Thonny ainsi que le service Capytale accessible depuis votre ENT NEO.
